@@ -1,0 +1,13 @@
+<svg id="Completed" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="back" width="27" height="27" transform="translate(30 370)" fill="#0ac836" opacity="0.2"/>
+    </clipPath>
+  </defs>
+  <g id="Completed-2" data-name="Completed" transform="translate(-30 -370)" clip-path="url(#clip-path)">
+    <g id="Completed-3" data-name="Completed" transform="translate(34.501 374.501)">
+      <path id="Path_13238" data-name="Path 13238" d="M24.053,24.463C19.916,27.84,7,27.84,2.946,24.463c-4.137-3.377-3.715-17.814,0-21.613s17.392-3.8,21.107,0S28.19,21.085,24.053,24.463Z" transform="translate(-4.5 -4.499)" fill="#0ac836"/>
+      <path id="Path_13205" data-name="Path 13205" d="M9.336,15.994a1.2,1.2,0,0,1-1.013-.507L5.172,11.435A1.283,1.283,0,1,1,7.2,9.859l2.139,2.758,4.728-6.135a1.283,1.283,0,0,1,2.026,1.576L10.35,15.487A1.472,1.472,0,0,1,9.336,15.994Z" transform="translate(-1.631 -1.993)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "811828125363",
+    "project_id": "edemand-79907",
+    "storage_bucket": "edemand-79907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811828125363:android:ae603b4f47d49e0c1f5ac6",
+        "android_client_info": {
+          "package_name": "wrteam.edemand.customer.e_demand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811828125363-83im8nhpq2lkmhjlqj8djqvl3743dmbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wrteam.edemand.customer.e_demand",
+            "certificate_hash": "cd9cd9d8f8a7a6a543437fed4993e28a9d45032f"
+          }
+        },
+        {
+          "client_id": "811828125363-cen36phn2ivcuduq1n6kf3p0garcr1n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wrteam.edemand.customer.e_demand",
+            "certificate_hash": "10dff690f69595d027ee07908517132fa6bc8fcb"
+          }
+        },
+        {
+          "client_id": "811828125363-mont2au1dqrdtk3dfmhqea95qu2sqg4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wrteam.edemand.customer.e_demand",
+            "certificate_hash": "43075260377dfe87095527975765878a18a1818e"
+          }
+        },
+        {
+          "client_id": "811828125363-ttbph9f9ui1msfp8krmb6h00gdnvtql4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wrteam.edemand.customer.e_demand",
+            "certificate_hash": "9028c3a86eb15ed97219cf86868ec29ebd3f8a90"
+          }
+        },
+        {
+          "client_id": "811828125363-hho93g1ipg9eh77vc0fqsosjq8dt7ve3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhD2s84d5y_6F3eV4P5G6Wjf63KUNnoC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811828125363-hho93g1ipg9eh77vc0fqsosjq8dt7ve3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811828125363-bntr479ue87lq3b7ndjag9502a61mt8d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edemand.macOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811828125363:android:5068449898c906561f5ac6",
+        "android_client_info": {
+          "package_name": "wrteam.edemand.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811828125363-2mfsj2tv7aju1l1dmgucjkip7r9jsfnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wrteam.edemand.provider",
+            "certificate_hash": "cd9cd9d8f8a7a6a543437fed4993e28a9d45032f"
+          }
+        },
+        {
+          "client_id": "811828125363-98dcjf9p0qj35mgbhnp7gkhg0jionmq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wrteam.edemand.provider",
+            "certificate_hash": "9028c3a86eb15ed97219cf86868ec29ebd3f8a90"
+          }
+        },
+        {
+          "client_id": "811828125363-rsqb6tp2ouu9f1gddrj2uc95lnnn37bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wrteam.edemand.provider",
+            "certificate_hash": "43075260377dfe87095527975765878a18a1818e"
+          }
+        },
+        {
+          "client_id": "811828125363-vmjmbvbuq6enm647ftvm0lc2uge75265.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wrteam.edemand.provider",
+            "certificate_hash": "6ce776673dca824661443f7198a756df0282a8dc"
+          }
+        },
+        {
+          "client_id": "811828125363-hho93g1ipg9eh77vc0fqsosjq8dt7ve3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhD2s84d5y_6F3eV4P5G6Wjf63KUNnoC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811828125363-hho93g1ipg9eh77vc0fqsosjq8dt7ve3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811828125363-bntr479ue87lq3b7ndjag9502a61mt8d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edemand.macOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

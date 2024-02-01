@@ -1,0 +1,8 @@
+<svg id="booking" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1201" data-name="Rectangle 1201" width="24" height="24" fill="none"/>
+  <g id="booking-2" data-name="booking" transform="translate(2.298)">
+    <line id="Line_54" data-name="Line 54" x2="5.186" transform="translate(4.647 13.371)" fill="none" stroke="#898989" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"/>
+    <line id="Line_55" data-name="Line 55" x2="8.666" transform="translate(4.647 8.921)" fill="none" stroke="#898989" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"/>
+    <path id="Path_12244" data-name="Path 12244" d="M14.783,2.229v.393A1.583,1.583,0,0,1,13.2,4.205H6.309A1.586,1.586,0,0,1,4.726,2.622V1.838A1.583,1.583,0,0,1,6.317.255H13.21a1.58,1.58,0,0,1,1.573,1.583v.391h1.991A2.372,2.372,0,0,1,19.149,4.6V21.373a2.372,2.372,0,0,1-2.374,2.372H2.364A2.109,2.109,0,0,1,.255,21.636V4.6A2.372,2.372,0,0,1,2.627,2.221H4.734" fill="none" stroke="#898989" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"/>
+  </g>
+</svg>

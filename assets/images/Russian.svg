@@ -1,0 +1,18 @@
+<svg id="Russian" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_12860" data-name="Path 12860" d="M23.994,12.009A12,12,0,1,1,11.994,0a12,12,0,0,1,12,12.009Z" transform="translate(0.006 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1358" data-name="Rectangle 1358" width="39.966" height="26.158" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Boundary" width="24" height="24" fill="none"/>
+  <g id="Group_2250" data-name="Group 2250" clip-path="url(#clip-path)">
+    <g id="Group_2249" data-name="Group 2249" transform="translate(-7.978 -1.07)" clip-path="url(#clip-path-2)">
+      <rect id="Rectangle_1355" data-name="Rectangle 1355" width="39.966" height="8.716" fill="#ededed"/>
+      <rect id="Rectangle_1356" data-name="Rectangle 1356" width="39.966" height="8.721" transform="translate(0 8.716)" fill="#323e95"/>
+      <rect id="Rectangle_1357" data-name="Rectangle 1357" width="39.966" height="8.721" transform="translate(0 17.437)" fill="#d8001e"/>
+    </g>
+  </g>
+</svg>

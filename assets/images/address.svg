@@ -1,0 +1,7 @@
+<svg id="address" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <rect id="Rectangle_1425" data-name="Rectangle 1425" width="26" height="26" fill="none"/>
+  <line id="Line_114" data-name="Line 114" y2="5" transform="translate(6.95 7.737)" fill="none" stroke="#2560fc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path id="Path_13156" data-name="Path 13156" d="M27.305,17.4a4.4,4.4,0,1,0-8.805,0c0,2.432,3.2,6,4.4,6S27.305,19.834,27.305,17.4Z" transform="translate(-3.206 -0.492)" fill="none" stroke="#2560fc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <circle id="Ellipse_87" data-name="Ellipse 87" cx="0.5" cy="0.5" r="0.5" transform="translate(19.196 16.312)" fill="none" stroke="#2560fc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path id="Path_13157" data-name="Path 13157" d="M9.724,15.224H5.584A4.576,4.576,0,0,1,1,10.657V5.567A4.576,4.576,0,0,1,5.584,1H19.417A4.576,4.576,0,0,1,24,5.567V8.112" transform="translate(0.5 2.086)" fill="none" stroke="#2560fc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="344.102" height="156.892" viewBox="0 0 344.102 156.892">
+  <defs>
+    <linearGradient id="linear-gradient" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bc95fa"/>
+      <stop offset="1" stop-color="#e8dbfd"/>
+    </linearGradient>
+  </defs>
+  <g id="_3d_leaderboard" data-name="3d leaderboard" transform="translate(9422.342 -1625.002)">
+    <g id="_1st_rank" data-name="1st rank" transform="translate(-9312 1625.002)">
+      <path id="Path_14919" data-name="Path 14919" d="M.342.575H124.657V144.1H.342Z" transform="translate(-0.342 12.423)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+      <path id="Path_14920" data-name="Path 14920" d="M89.234,13.575H.343l20.823-13h82.668l20.823,13Z" transform="translate(-0.342 -0.577)" fill-rule="evenodd" opacity="0.8" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="_2nd_rank" data-name="2nd rank" transform="translate(-9422.342 1659.847)">
+      <path id="Path_14921" data-name="Path 14921" d="M0,.42H110.343V109.1H0Z" transform="translate(0 12.733)" fill-rule="evenodd" opacity="0.8" fill="url(#linear-gradient)"/>
+      <path id="Path_14922" data-name="Path 14922" d="M110.342.422H25.848L0,13.42H110.342Z" transform="translate(0 -0.422)" fill-rule="evenodd" opacity="0.8" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="_3rd_rank" data-name="3rd rank" transform="translate(-9187.685 1671.002)">
+      <path id="Path_14923" data-name="Path 14923" d="M.657.208h84.5l24.948,13H.657Z" transform="translate(-0.657 -0.208)" fill-rule="evenodd" opacity="0.8" fill="url(#linear-gradient)"/>
+      <path id="Path_14924" data-name="Path 14924" d="M.657.206H110.1V98.1H.657Z" transform="translate(-0.657 12.792)" fill-rule="evenodd" opacity="0.8" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

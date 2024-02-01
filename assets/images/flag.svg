@@ -1,0 +1,17 @@
+<svg id="flag" xmlns="http://www.w3.org/2000/svg" width="30" height="21" viewBox="0 0 30 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Boundary" width="30" height="21" rx="2" transform="translate(35 300.499)" fill="#f5f5f5"/>
+    </clipPath>
+  </defs>
+  <g id="flag-2" data-name="flag" transform="translate(-35 -300.499)" clip-path="url(#clip-path)">
+    <g id="india" transform="translate(34.115 300.498)">
+      <rect id="Rectangle_950" data-name="Rectangle 950" width="31.771" height="21" transform="translate(0 0)" fill="#f0f0f0"/>
+      <rect id="Rectangle_951" data-name="Rectangle 951" width="31.771" height="7" transform="translate(0 0)" fill="#ff9811"/>
+      <rect id="Rectangle_952" data-name="Rectangle 952" width="31.771" height="7" transform="translate(0 14)" fill="#6da544"/>
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="2.724" cy="2.701" rx="2.724" ry="2.701" transform="translate(13.161 7.799)" fill="#0052b4"/>
+      <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="1.702" cy="1.688" rx="1.702" ry="1.688" transform="translate(14.183 8.812)" fill="#f0f0f0"/>
+      <path id="Path_11274" data-name="Path 11274" d="M16.872,14.752l.525,1.181,1.294-.14-.769,1.041.769,1.041-1.294-.14-.525,1.181-.525-1.181-1.294.14.769-1.041-.769-1.041,1.294.14Z" transform="translate(-0.987 -6.335)" fill="#0052b4"/>
+    </g>
+  </g>
+</svg>

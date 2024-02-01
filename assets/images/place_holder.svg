@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17814" data-name="Rectangle 17814" width="512" height="512"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-0.033" x2="1.048" y2="1.046" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2051d5"/>
+      <stop offset="1" stop-color="#143283"/>
+    </linearGradient>
+  </defs>
+  <g id="placeholder" clip-path="url(#clip-path)">
+    <rect id="Rectangle_17813" data-name="Rectangle 17813" width="512" height="512" fill="none"/>
+    <g id="eDemand_Placeholder" data-name="eDemand Placeholder" transform="translate(-55.785 24.23)" opacity="0.44">
+      <path id="Path_8" data-name="Path 8" d="M778.827,322.374a68.145,68.145,0,0,0,0-36.465H807.42a7.036,7.036,0,0,0,6.806-8.843A104.2,104.2,0,1,0,713.591,408.327h55.82a11.718,11.718,0,0,1,11.718,11.718v13.028a11.719,11.719,0,0,1-11.718,11.719H712.64A139.792,139.792,0,0,1,572.94,303.51c0-.064,0-.128,0-.191a140.651,140.651,0,0,1,281.3.823q0,3.657-.184,7.27a11.6,11.6,0,0,1-11.6,10.963Z" transform="translate(-401.803 -72.372)" fill="url(#linear-gradient)"/>
+      <path id="Path_9" data-name="Path 9" d="M807.7,319.192a67.723,67.723,0,0,1-121.934,40.587,5.822,5.822,0,0,1,4.637-9.331H734.77l10.418-10.419V298.355L734.77,287.936H690.219a5.733,5.733,0,0,1-4.564-9.186A67.7,67.7,0,0,1,807.7,319.192Z" transform="translate(-420.886 -87.42)" fill="url(#linear-gradient)"/>
+      <path id="Path_10" data-name="Path 10" d="M798.882,319.192a67.721,67.721,0,0,1-121.892,40.64,5.838,5.838,0,0,1,4.623-9.384h36.973a17.787,17.787,0,0,0,12.577-5.21h0a17.787,17.787,0,0,0,5.209-12.576v-26.94a17.788,17.788,0,0,0-5.209-12.577h0a17.789,17.789,0,0,0-12.577-5.209H681.4a5.721,5.721,0,0,1-4.633-9.094,67.7,67.7,0,0,1,122.11,40.35Z" transform="translate(-419.374 -87.42)" fill="url(#linear-gradient)"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(407.088 295.503)">
+        <path id="Rectangle_1" data-name="Rectangle 1" d="M15.684,0H29.668A15.684,15.684,0,0,1,45.352,15.684V29.751a5.812,5.812,0,0,1-5.812,5.812H5.812A5.812,5.812,0,0,1,0,29.751V15.684A15.684,15.684,0,0,1,15.684,0Z" transform="translate(0 41.356)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="30.047" height="30.047" rx="15.023" transform="translate(7.653)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

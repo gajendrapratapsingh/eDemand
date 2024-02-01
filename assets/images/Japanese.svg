@@ -1,0 +1,12 @@
+<svg id="Japanese" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_12393" data-name="Path 12393" d="M23.994,12.009A12,12,0,1,1,11.994,0a12,12,0,0,1,12,12.009Z" transform="translate(0.006 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Boundary" width="24" height="24" fill="none"/>
+  <g id="Group_2244" data-name="Group 2244" clip-path="url(#clip-path)">
+    <rect id="Rectangle_1336" data-name="Rectangle 1336" width="46.113" height="30.773" transform="translate(-11.056 -3.377)" fill="#ededed"/>
+    <path id="Path_12392" data-name="Path 12392" d="M20.079,13.934A6.026,6.026,0,1,1,14.054,7.9a6.026,6.026,0,0,1,6.026,6.03Z" transform="translate(-2.002 -1.976)" fill="#ad0018"/>
+  </g>
+</svg>
